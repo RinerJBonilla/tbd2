@@ -1,0 +1,246 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/miriam trochez/CLionProjects/TBD2/Bloque.cpp
+Bloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Bloque.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/Bloque.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+DataFile.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/Column.cpp
+Column.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Column.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/Column.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+stdio.h
+-
+string.h
+-
+
+C:/Users/miriam trochez/CLionProjects/TBD2/ColumnBloque.cpp
+ColumnBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/ColumnBloque.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/ColumnBloque.h
+Bloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Bloque.h
+Column.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Column.h
+DataFile.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.h
+stdio.h
+-
+list
+-
+
+C:/Users/miriam trochez/CLionProjects/TBD2/DataBloque.cpp
+DataBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataBloque.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/DataBloque.h
+Bloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Bloque.h
+Table.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Table.h
+DataFile.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.h
+stdio.h
+-
+list
+-
+
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.cpp
+DataFile.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.h
+stdio.h
+-
+io.h
+-
+
+C:/Users/miriam trochez/CLionProjects/TBD2/FachData.cpp
+FachData.h
+C:/Users/miriam trochez/CLionProjects/TBD2/FachData.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/FachData.h
+Bloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Bloque.h
+Table.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Table.h
+Column.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Column.h
+DataFile.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.h
+DataBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataBloque.h
+ColumnBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/ColumnBloque.h
+Row.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Row.h
+RowBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/RowBloque.h
+stdio.h
+-
+list
+-
+string
+-
+sstream
+-
+algorithm
+-
+iterator
+-
+
+C:/Users/miriam trochez/CLionProjects/TBD2/Row.cpp
+Row.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Row.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/Row.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+map
+-
+algorithm
+-
+stdio.h
+-
+string.h
+-
+
+C:/Users/miriam trochez/CLionProjects/TBD2/RowBloque.cpp
+RowBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/RowBloque.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/RowBloque.h
+Bloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Bloque.h
+Row.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Row.h
+DataFile.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.h
+stdio.h
+-
+list
+-
+
+C:/Users/miriam trochez/CLionProjects/TBD2/Table.cpp
+Table.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Table.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/Table.h
+iostream
+-
+vector
+-
+string
+-
+list
+-
+algorithm
+-
+stdio.h
+-
+string.h
+-
+column.h
+C:/Users/miriam trochez/CLionProjects/TBD2/column.h
+row.h
+C:/Users/miriam trochez/CLionProjects/TBD2/row.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/column.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+stdio.h
+-
+string.h
+-
+
+C:/Users/miriam trochez/CLionProjects/TBD2/main.cpp
+iostream
+-
+fstream
+-
+Bloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Bloque.h
+Table.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Table.h
+Column.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Column.h
+DataFile.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataFile.h
+DataBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/DataBloque.h
+ColumnBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/ColumnBloque.h
+Row.h
+C:/Users/miriam trochez/CLionProjects/TBD2/Row.h
+RowBloque.h
+C:/Users/miriam trochez/CLionProjects/TBD2/RowBloque.h
+stdio.h
+-
+list
+-
+string
+-
+sstream
+-
+algorithm
+-
+iterator
+-
+FachData.h
+C:/Users/miriam trochez/CLionProjects/TBD2/FachData.h
+
+C:/Users/miriam trochez/CLionProjects/TBD2/row.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+map
+-
+algorithm
+-
+stdio.h
+-
+string.h
+-
+
